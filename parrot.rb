@@ -2,7 +2,7 @@
 # returns the phrase
 
 #parrot method
-def parrot(sounds = "Squak", )
+def parrot(sounds = "Squak")
   puts sounds
-  sounds 
+  sounds
 end
