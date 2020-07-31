@@ -4,5 +4,5 @@
 #parrot method
 def parrot(sounds = "Squawk!")
   puts sounds
-  puts "Pretty Bird!"
+  sounds
 end
